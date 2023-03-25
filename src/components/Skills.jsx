@@ -33,7 +33,7 @@ export default function Skills() {
           <div className="w-full grid grid-cols-2 sm:grid-cols-5 gap-4 text-center py-8">
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={HTML} alt="HTML icon" />
@@ -41,7 +41,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={CSS} alt="HTML icon" />
@@ -49,7 +49,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img
@@ -62,7 +62,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img
@@ -74,7 +74,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={GitHub} alt="HTML icon" />
@@ -82,7 +82,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img
@@ -94,7 +94,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img
@@ -106,7 +106,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={Java} alt="HTML icon" />
@@ -114,7 +114,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={Git} alt="HTML icon" />
@@ -122,7 +122,7 @@ export default function Skills() {
             </div>
             <div
               className={`shadow-md shadow-[#040c16] hover:scale-110 duration-500 pt-5 ${
-                isDark ? "bg-[#0a192f]" : ""
+                isDark ? "bg-[#0a192f] text-gray-300" : ""
               }`}
             >
               <img className="w-20 h-20 mx-auto" src={Nextjs} alt="HTML icon" />
